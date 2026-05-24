@@ -1,14 +1,20 @@
-# Minimal Theme
+# Kashish Goel Personal Website
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+Static personal portfolio for Kashish Goel, designed for GitHub Pages.
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+## Project Structure
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+```text
+.
++-- index.html
++-- CNAME
++-- assets
+    +-- images
+    |   +-- organizations
+    +-- styles
+        +-- main.css
+```
 
-# License
+## Local Preview
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-
-
+Open `index.html` directly in a browser. The site has no build step.
